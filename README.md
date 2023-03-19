@@ -57,5 +57,5 @@ A litter of puppies running through the yard.
 </center></td><td><center>
 Robot dancing in times square.
 <br>
-<img src="https://user-images.githubusercontent.com/54370274/226195930-1fd957df-f403-4ae3-9a85-f4f954c82f5a.gif" alt="Robot dancing in times square." style="width: 300px;">
+<img src="https://user-images.githubusercontent.com/54370274/226209983-eae320fc-078e-4e62-9989-d97beb9477eb.gif" alt="Robot dancing in times square." style="width: 300px;">
 </center></td></tr></tbody></table>
