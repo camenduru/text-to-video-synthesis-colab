@@ -7,7 +7,7 @@
 https://www.modelscope.cn/models/damo/text-to-video-synthesis/summary
 
 ## Models License
-?
+Apache License 2.0
 
 ## Examples
 <table><tbody><tr><td><center>
