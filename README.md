@@ -3,6 +3,8 @@
 
 ## 🚦 WIP 🚦
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis.ipynb
+
 ## Main Repo
 https://www.modelscope.cn/models/damo/text-to-video-synthesis/summary
 
