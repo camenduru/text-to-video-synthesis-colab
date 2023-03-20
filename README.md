@@ -6,7 +6,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis.ipynb)
 
 ## Tutorial
-Please click `second play button` after each generation (pipe using lots of ram 😐)
+Please click on the `second play button` after each generation. You may receive an error message that says `Your session crashed for an unknown reason` but your video will be saved in the `videos` folder. (pipe using lots of ram 😐)
 
 ![Screenshot 2023-03-19 234114](https://user-images.githubusercontent.com/54370274/226207884-3052f5a8-862b-4785-85fe-9f6aa26be879.png)
 
