@@ -15,6 +15,7 @@ If you are using free colab please click `restart runtime` after each generation
 
 ## Main Repo
 https://www.modelscope.cn/models/damo/text-to-video-synthesis/summary
+https://github.com/modelscope/modelscope
 
 ## Models License
 Apache License 2.0
