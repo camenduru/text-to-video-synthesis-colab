@@ -12,7 +12,7 @@ If you are using free colab please click `restart runtime` after each generation
 ![Screenshot 2023-03-19 234114](https://user-images.githubusercontent.com/54370274/226207884-3052f5a8-862b-4785-85fe-9f6aa26be879.png)
 ![Screenshot 2023-03-19 234144](https://user-images.githubusercontent.com/54370274/226207887-d9dec199-162e-4992-882b-a4f05bf182c6.png)
 
-maybe we can edit `max_frames` in `/content/model/configuration.json` for video duration 
+maybe we can edit `max_frames` in `/content/models/configuration.json` for video duration 
 ```json
 {   "framework": "pytorch",
     "task": "text-to-video-synthesis",
