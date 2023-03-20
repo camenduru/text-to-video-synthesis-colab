@@ -12,6 +12,43 @@ If you are using free colab please click `restart runtime` after each generation
 ![Screenshot 2023-03-19 234114](https://user-images.githubusercontent.com/54370274/226207884-3052f5a8-862b-4785-85fe-9f6aa26be879.png)
 ![Screenshot 2023-03-19 234144](https://user-images.githubusercontent.com/54370274/226207887-d9dec199-162e-4992-882b-a4f05bf182c6.png)
 
+if you want you can edit `configuration.json` under `/root/.cache/modelscope/hub/damo/text-to-video-synthesis/configuration.json`
+```json
+{   "framework": "pytorch",
+    "task": "text-to-video-synthesis",
+    "model": {
+        "type": "latent-text-to-video-synthesis",
+        "model_args": {
+            "ckpt_clip": "open_clip_pytorch_model.bin",
+            "ckpt_unet": "text2video_pytorch_model.pth",
+            "ckpt_autoencoder": "VQGAN_autoencoder.pth",
+            "max_frames": 16,
+            "tiny_gpu": 1
+        },
+        "model_cfg": {
+            "unet_in_dim": 4,
+            "unet_dim": 320,
+            "unet_y_dim": 768,
+            "unet_context_dim": 1024,
+            "unet_out_dim": 4,
+            "unet_dim_mult": [1, 2, 4, 4],
+            "unet_num_heads": 8,
+            "unet_head_dim": 64,
+            "unet_res_blocks": 2,
+            "unet_attn_scales": [1, 0.5, 0.25],
+            "unet_dropout": 0.1,
+            "temporal_attention": "True",
+            "num_timesteps": 1000,
+            "mean_type": "eps",
+            "var_type": "fixed_small",
+            "loss_type": "mse"
+        }
+    },
+    "pipeline": {
+        "type": "latent-text-to-video-synthesis"
+    }
+}
+```
 
 ## Main Repo
 https://www.modelscope.cn/models/damo/text-to-video-synthesis/summary
