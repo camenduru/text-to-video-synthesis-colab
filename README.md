@@ -6,13 +6,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis.ipynb)
 
 ## Tutorial
+After restart click second cell play button 
 If you are using free colab please click `restart runtime` after each generation (pipe using lots of ram)
-
 
 ![Screenshot 2023-03-19 234114](https://user-images.githubusercontent.com/54370274/226207884-3052f5a8-862b-4785-85fe-9f6aa26be879.png)
 ![Screenshot 2023-03-19 234144](https://user-images.githubusercontent.com/54370274/226207887-d9dec199-162e-4992-882b-a4f05bf182c6.png)
 
-if you want you can edit `configuration.json` under `/content/model/configuration.json`
+maybe we can edit `max_frames` in `/content/model/configuration.json` for video duration 
 ```json
 {   "framework": "pytorch",
     "task": "text-to-video-synthesis",
