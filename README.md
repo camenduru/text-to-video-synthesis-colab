@@ -8,7 +8,7 @@
 ## Tutorial
 Please click on the `second play button` after each generation. You may receive an error message that says `Your session crashed for an unknown reason` but your video will be saved in the `videos` folder. (pipe using lots of ram 😐)
 
-![Screenshot 2023-03-19 234114](https://user-images.githubusercontent.com/54370274/226207884-3052f5a8-862b-4785-85fe-9f6aa26be879.png)
+![Screenshot 2023-03-19 234144](https://user-images.githubusercontent.com/54370274/226207887-d9dec199-162e-4992-882b-a4f05bf182c6.png)
 
 maybe we can edit `max_frames` in `/content/models/configuration.json` for video duration 
 ```json
