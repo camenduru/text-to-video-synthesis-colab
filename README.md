@@ -50,9 +50,9 @@ maybe we can edit `max_frames` in `/content/models/configuration.json` for video
 ```
 
 ## Main Repo
-https://www.modelscope.cn/models/damo/text-to-video-synthesis/summary
-https://github.com/modelscope/modelscope
-https://github.com/huggingface/diffusers
+https://www.modelscope.cn/models/damo/text-to-video-synthesis/summary <br />
+https://github.com/modelscope/modelscope <br />
+https://github.com/huggingface/diffusers <br />
 
 ## Models License
 Apache License 2.0
