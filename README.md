@@ -97,3 +97,6 @@ Robot dancing in times square.
 <br>
 <img src="https://user-images.githubusercontent.com/54370274/226209983-eae320fc-078e-4e62-9989-d97beb9477eb.gif" alt="Robot dancing in times square." style="width: 300px;">
 </center></td></tr></tbody></table>
+
+## Related Colab
+https://github.com/camenduru/text2video-zero-colab
