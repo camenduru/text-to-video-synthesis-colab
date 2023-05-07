@@ -10,6 +10,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/animov_0_1_1_text_to_video_colab.ipynb) | animov_0_1_1_text_to_video_colab [strangeman3107/animov-0.1.1](https://huggingface.co/strangeman3107/animov-0.1.1)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/animov_0_1_text_to_video_colab.ipynb) | animov_0_1_text_to_video_colab [strangeman3107/animov-0.1.1](https://huggingface.co/strangeman3107/animov-0.1)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/watermark_remover_gradio.ipynb) | Watermark Remover
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis.ipynb) | text_to_video_synthesis (Original) (Old)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis_diffusers.ipynb) | text_to_video_synthesis_diffusers (Old)
 
 ## Tutorial Video
 https://www.youtube.com/watch?v=b8D4am73e6I
