@@ -5,50 +5,13 @@
 
 | Colab | Type
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/modelscope-text-to-video-synthesis.ipynb) | Diffusers Gradio (Recommended)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis.ipynb) | Original
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis_diffusers.ipynb) | Diffusers (Recommended)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis_diffusers.ipynb) | Diffusers
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/watermark_remover_gradio.ipynb) | Watermark Remover
 
 ## Tutorial Video
 https://www.youtube.com/watch?v=b8D4am73e6I
-
-maybe we can edit `max_frames` in `/content/models/configuration.json` for video duration 
-```json
-{   "framework": "pytorch",
-    "task": "text-to-video-synthesis",
-    "model": {
-        "type": "latent-text-to-video-synthesis",
-        "model_args": {
-            "ckpt_clip": "open_clip_pytorch_model.bin",
-            "ckpt_unet": "text2video_pytorch_model.pth",
-            "ckpt_autoencoder": "VQGAN_autoencoder.pth",
-            "max_frames": 16,
-            "tiny_gpu": 1
-        },
-        "model_cfg": {
-            "unet_in_dim": 4,
-            "unet_dim": 320,
-            "unet_y_dim": 768,
-            "unet_context_dim": 1024,
-            "unet_out_dim": 4,
-            "unet_dim_mult": [1, 2, 4, 4],
-            "unet_num_heads": 8,
-            "unet_head_dim": 64,
-            "unet_res_blocks": 2,
-            "unet_attn_scales": [1, 0.5, 0.25],
-            "unet_dropout": 0.1,
-            "temporal_attention": "True",
-            "num_timesteps": 1000,
-            "mean_type": "eps",
-            "var_type": "fixed_small",
-            "loss_type": "mse"
-        }
-    },
-    "pipeline": {
-        "type": "latent-text-to-video-synthesis"
-    }
-}
-```
 
 ## Main Repo
 https://www.modelscope.cn/models/damo/text-to-video-synthesis/summary <br />
