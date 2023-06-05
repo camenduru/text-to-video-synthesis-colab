@@ -5,7 +5,7 @@
 
 | Colab | Type
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/potat1_10K_text_to_video_colab.ipynb) | potat1_10K_text_to_video_colab 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/potat1_text_to_video_colab.ipynb) | potat1_text_to_video_colab 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/zeroscope_v1_320s_text_to_video_colab.ipynb) | zeroscope_v1_320s_text_to_video_colab [cerspense/zeroscope_v1_320s](https://huggingface.co/cerspense/zeroscope_v1_320s)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/ms_1_7b_text_to_video_colab.ipynb) | ms_1_7b_text_to_video_colab [damo-vilab/text-to-video-ms-1.7b](https://huggingface.co/damo-vilab/text-to-video-ms-1.7b)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/animov_512x_text_to_video_colab.ipynb) | animov_512x_text_to_video_colab [strangeman3107/animov-512x](https://huggingface.co/strangeman3107/animov-512x)
