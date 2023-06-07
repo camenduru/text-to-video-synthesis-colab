@@ -15,8 +15,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis.ipynb) | text_to_video_synthesis
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis_diffusers.ipynb) | text_to_video_synthesis_diffusers
 
-## Tutorial Video
-https://www.youtube.com/watch?v=b8D4am73e6I
+## Tutorials
+For Potat 1️⃣ and Zeroscope: https://www.youtube.com/watch?v=E45AO1w9gRU <br />
+https://www.youtube.com/watch?v=b8D4am73e6I <br />
 
 ## Main Repo
 https://www.modelscope.cn/models/damo/text-to-video-synthesis/summary <br />
