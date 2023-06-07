@@ -39,7 +39,8 @@ https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/9c8f2
 
 https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/93ee18ae-e4bc-4887-9971-e85614a99f21
 
-https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/aca394d4-1a82-4a59-b1dd-db5a1715eb4c
+https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/c3c101f7-db74-4daa-81f3-3cd40f1b84af
+
 
 ## Modelscope
 
