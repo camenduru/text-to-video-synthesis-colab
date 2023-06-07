@@ -28,6 +28,21 @@ https://github.com/huggingface/diffusers <br />
 Apache License 2.0
 
 ## Examples
+
+## Potat 1️⃣
+
+https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/94cf0a20-0c9a-486f-ac87-f4d400bd271c
+
+https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/72637b06-cc1f-4e61-a0af-88468c55dd79
+
+https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/9c8f2811-cfc9-4154-88e1-84db46274367
+
+https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/93ee18ae-e4bc-4887-9971-e85614a99f21
+
+https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/aca394d4-1a82-4a59-b1dd-db5a1715eb4c
+
+## Modelscope
+
 <table><tbody><tr><td><center>
 A giraffe underneath a microwave.
 <br>
