@@ -31,17 +31,18 @@ Apache License 2.0
 
 ## Potat 1️⃣
 
-https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/94cf0a20-0c9a-486f-ac87-f4d400bd271c
+https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/604a8817-5ad3-421a-9240-e5d3b195074d
 
-https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/72637b06-cc1f-4e61-a0af-88468c55dd79
+https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/842da028-df43-4dba-bb14-a41d66edeb4e
 
-https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/9c8f2811-cfc9-4154-88e1-84db46274367
+https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/c5201c8a-2815-4533-9474-1e312c564f4e
 
-https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/93ee18ae-e4bc-4887-9971-e85614a99f21
+https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/281d1a9e-b930-4e8a-9554-5203e15b4425
 
-https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/c3c101f7-db74-4daa-81f3-3cd40f1b84af
+https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/0bb74810-13bf-4e20-950f-b569a60ea5c8
 
-https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/b0a67e38-4278-49a7-b105-c8cf4524bfc3
+https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/1025f302-9fa1-4bd3-8996-1da94697151e
+
 
 ## Base Model
 
