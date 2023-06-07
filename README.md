@@ -43,7 +43,7 @@ https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/c3c10
 
 https://github.com/camenduru/text-to-video-synthesis-colab/assets/54370274/b0a67e38-4278-49a7-b105-c8cf4524bfc3
 
-## Modelscope
+## Base Model
 
 <table><tbody><tr><td><center>
 A giraffe underneath a microwave.
