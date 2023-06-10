@@ -5,7 +5,6 @@
 
 | Colab | Type
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/potat1_base_text_encoder_text_to_video_colab.ipynb) | potat1_base_text_encoder_text_to_video_colab [camenduru/potat1](https://huggingface.co/camenduru/potat1)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/zeroscope_v1_1_320s_text_to_video_colab.ipynb) | zeroscope_v1_1_320s_text_to_video_colab [cerspense/zeroscope_v1-1_320s](https://huggingface.co/cerspense/zeroscope_v1-1_320s)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/potat1_text_to_video_colab.ipynb) | potat1_text_to_video_colab [camenduru/potat1](https://huggingface.co/camenduru/potat1)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/zeroscope_v1_320s_text_to_video_colab.ipynb) | zeroscope_v1_320s_text_to_video_colab [cerspense/zeroscope_v1_320s](https://huggingface.co/cerspense/zeroscope_v1_320s)
