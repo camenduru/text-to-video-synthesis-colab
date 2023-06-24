@@ -24,10 +24,9 @@
 
 ## 🦒 Community Colab
 
-| Colab | Type
-| --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis_diffusers.ipynb) | potat1_text_to_video_colab_ALM (Thanks to snydjos ❤) [tutorial](zeroscope_v2_xl_text_to_video_colab.ipynb)
-
+| Colab Page | Function | Author | Readme Page
+| --- | --- | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis_diffusers.ipynb) | potat1_text_to_video_colab_ALM | snydjos | [tutorial](https://www.ailostmedia.com/post/the-ai-lost-media-text-to-video-colab-workspace) (Thanks to snydjos ❤)
 
 ## Tutorials
 https://www.youtube.com/watch?v=E45AO1w9gRU (for Potat 1️⃣ and Zeroscope) <br />
