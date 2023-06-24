@@ -1,10 +1,11 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
-## 🚦 WIP 🚦
+## 🦒 Colab
 
 | Colab | Type
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/longscope_text_to_video_colab.ipynb) | longscope_text_to_video_colab [polyware-ai/longscope](https://huggingface.co/polyware-ai/longscope)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/zeroscope_v2_xl_text_to_video_colab.ipynb) | zeroscope_v2_xl_text_to_video_colab [cerspense/zeroscope_v2_XL](https://huggingface.co/cerspense/zeroscope_v2_XL)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/zeroscope_v2_576w_text_to_video_colab.ipynb) | zeroscope_v2_576w_text_to_video_colab [cerspense/zeroscope_v2_576w](https://huggingface.co/cerspense/zeroscope_v2_576w)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/potat1_exp1_text_to_video_colab.ipynb) | potat1_exp1_text_to_video_colab
@@ -20,6 +21,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/watermark_remover_gradio.ipynb) | Watermark Remover
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis.ipynb) | text_to_video_synthesis
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis_diffusers.ipynb) | text_to_video_synthesis_diffusers
+
+## 🦒 Community Colab
+
+| Colab | Type
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis_diffusers.ipynb) | potat1_text_to_video_colab_ALM (Thanks to snydjos ❤) [tutorial](zeroscope_v2_xl_text_to_video_colab.ipynb)
+
 
 ## Tutorials
 https://www.youtube.com/watch?v=E45AO1w9gRU (for Potat 1️⃣ and Zeroscope) <br />
