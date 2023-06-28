@@ -29,7 +29,7 @@
 
 | Colab | Function | Author | Readme
 | --- | --- | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TsZmatSu1-1lNBeOqz3_9Zq5P2c0xTTq) | potat1_text_to_video_colab_ALM (Thanks to snydjos ❤) | snydjos | [Readme](https://www.ailostmedia.com/post/the-ai-lost-media-text-to-video-colab-workspace)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TsZmatSu1-1lNBeOqz3_9Zq5P2c0xTTq) | potat1_text_to_video_colab_ALM (Thanks to snydjos ❤) | snydjos [AILostMedia](https://twitter.com/AILostMedia) | [Readme](https://www.ailostmedia.com/post/the-ai-lost-media-text-to-video-colab-workspace)
 
 ## Tutorials
 https://www.youtube.com/watch?v=WHcjD-uraUs (for zeroscope_video_webui_colab and zeroscope_upscale_video_webui_colab) <br />
