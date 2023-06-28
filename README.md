@@ -6,6 +6,7 @@
 
 | Colab | Type
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/zeroscope_video_webui_colab.ipynb) | zeroscope_video_webui_colab [cerspense/zeroscope_v2_576w](https://huggingface.co/cerspense/zeroscope_v2_576w) <br /> [cerspense/zeroscope_v2_XL](https://huggingface.co/cerspense/zeroscope_v2_XL)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/longscope_text_to_video_colab.ipynb) | longscope_text_to_video_colab [polyware-ai/longscope](https://huggingface.co/polyware-ai/longscope)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/zeroscope_v2_xl_text_to_video_colab.ipynb) | zeroscope_v2_xl_text_to_video_colab [cerspense/zeroscope_v2_XL](https://huggingface.co/cerspense/zeroscope_v2_XL)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/zeroscope_v2_576w_text_to_video_colab.ipynb) | zeroscope_v2_576w_text_to_video_colab [cerspense/zeroscope_v2_576w](https://huggingface.co/cerspense/zeroscope_v2_576w)
