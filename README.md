@@ -46,6 +46,9 @@ https://www.modelscope.cn/models/damo/text-to-video-synthesis/summary <br />
 https://github.com/modelscope/modelscope <br />
 https://github.com/huggingface/diffusers <br />
 
+## Paper
+https://arxiv.org/abs/2308.06571
+
 ## Models License
 Apache License 2.0
 
