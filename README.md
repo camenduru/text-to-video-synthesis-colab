@@ -6,7 +6,6 @@
 
 | Colab | Type
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/longscope_text_to_video_colab.ipynb) | longscope_text_to_video_colab [polyware-ai/longscope](https://huggingface.co/polyware-ai/longscope) <br /> (Thanks to [@polyware_ai](https://twitter.com/polyware_ai) ❤ for the model)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/zeroscope_v2_xl_text_to_video_colab.ipynb) | zeroscope_v2_xl_text_to_video_colab [cerspense/zeroscope_v2_XL](https://huggingface.co/cerspense/zeroscope_v2_XL) <br /> (Thanks to [@cerspense](https://twitter.com/cerspense) ❤ for the model)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/zeroscope_v2_576w_text_to_video_colab.ipynb) | zeroscope_v2_576w_text_to_video_colab [cerspense/zeroscope_v2_576w](https://huggingface.co/cerspense/zeroscope_v2_576w) <br /> (Thanks to [@cerspense](https://twitter.com/cerspense) ❤ for the model)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/potat1_exp1_text_to_video_colab.ipynb) | potat1_exp1_text_to_video_colab (Thanks to [lambda labs](https://lambdalabs.com/) ❤ for the gpu)
